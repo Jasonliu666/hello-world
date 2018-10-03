@@ -5,4 +5,4 @@ This is the first change in this file.
 chddddddd
 更改2
 测试222222
-$\int_0^10 (x + y)^2 dx$
+$\int_{0}^{10} (x + y)^2 dx$
